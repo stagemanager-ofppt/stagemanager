@@ -89,14 +89,5 @@ stagemanager/
 - **Hajar Bahhari** - Développeuse
 - **Ihssan Elaidi** - Développeuse
 
-## 📄 Licence
-
-Projet pédagogique - OFPPT 2026
-\`\`\`
-
-**⚠️ MOHIM:** F `\`\`\`` (backticks) dyal code blocks, khass tkoun **3 backticks** machi 2. Ila kayn mochkil f copier-coller, n9dr n3tik version bla code blocks.
-
----
-
 
 
